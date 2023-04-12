@@ -1,0 +1,15 @@
+D:\Курсы_программирование\C#\HW_6\Задача 41\bin\Debug\net7.0\Задача 41.exe
+D:\Курсы_программирование\C#\HW_6\Задача 41\bin\Debug\net7.0\Задача 41.deps.json
+D:\Курсы_программирование\C#\HW_6\Задача 41\bin\Debug\net7.0\Задача 41.runtimeconfig.json
+D:\Курсы_программирование\C#\HW_6\Задача 41\bin\Debug\net7.0\Задача 41.dll
+D:\Курсы_программирование\C#\HW_6\Задача 41\bin\Debug\net7.0\Задача 41.pdb
+D:\Курсы_программирование\C#\HW_6\Задача 41\obj\Debug\net7.0\Задача 41.csproj.AssemblyReference.cache
+D:\Курсы_программирование\C#\HW_6\Задача 41\obj\Debug\net7.0\Задача 41.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы_программирование\C#\HW_6\Задача 41\obj\Debug\net7.0\Задача 41.AssemblyInfoInputs.cache
+D:\Курсы_программирование\C#\HW_6\Задача 41\obj\Debug\net7.0\Задача 41.AssemblyInfo.cs
+D:\Курсы_программирование\C#\HW_6\Задача 41\obj\Debug\net7.0\Задача 41.csproj.CoreCompileInputs.cache
+D:\Курсы_программирование\C#\HW_6\Задача 41\obj\Debug\net7.0\Задача 41.dll
+D:\Курсы_программирование\C#\HW_6\Задача 41\obj\Debug\net7.0\refint\Задача 41.dll
+D:\Курсы_программирование\C#\HW_6\Задача 41\obj\Debug\net7.0\Задача 41.pdb
+D:\Курсы_программирование\C#\HW_6\Задача 41\obj\Debug\net7.0\Задача 41.genruntimeconfig.cache
+D:\Курсы_программирование\C#\HW_6\Задача 41\obj\Debug\net7.0\ref\Задача 41.dll
